@@ -1,0 +1,33 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "McSpicy map app API",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akila-codes/macspicy.git"
+  },
+  "keywords": [
+    "maccas",
+    "spicy",
+    "web",
+    "app",
+    "mobile"
+  ],
+  "author": "akila-codes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akila-codes/macspicy/issues"
+  },
+  "homepage": "https://github.com/akila-codes/macspicy#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
